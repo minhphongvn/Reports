@@ -1,6 +1,6 @@
 # MỘT SỐ THÔNG TIN VỀ COMPONENT 
 
-![alt text](https://minhphongvn.github.io/Reports/T5L/LHUForm/images/qaform.png)
+![alt text](images/qaform.png)
 
 ## Cài đặt
 
@@ -100,11 +100,11 @@ Default:
 #### width
 Type: `String`<br>
 Required: `false`<br>
-Default: `100%`
+Default: `100%`<br>
 Là chiều rộng của component, lưu ý component chỉ khuyên dùng trên màn hình rộng  nên sẽ không hỗ trợ responsive. 
 
 #### height
 Type: `String`<br>
 Required: `false`<br>
-Default: `98vh`
+Default: `98vh`<br>
 Là chiều cao của component.
