@@ -1,6 +1,6 @@
 # MỘT SỐ THÔNG TIN VỀ COMPONENT 
 
-![alt text](./images/qaform.png)
+![alt text](https://minhphongvn.github.io/Reports/T5L/LHUForm/images/qaform.png)
 
 ## Cài đặt
 
