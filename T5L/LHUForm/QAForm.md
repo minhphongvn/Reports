@@ -1,3 +1,5 @@
+# MỘT SỐ THÔNG TIN VỀ COMPONENT 
+
 ## Cài đặt
 
 ### sử dụng NPM hoặc YARN
@@ -15,7 +17,7 @@ npm i -S fpform
 
 ```
 
-[Live Demo](https://github.com/)
+[Live Demo](https://minhphongvn.github.io/Reports/T5L/)
 
 ## VueJS 2.0
 Cách sử dụng component:
