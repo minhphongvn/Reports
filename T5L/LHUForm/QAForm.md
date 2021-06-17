@@ -19,7 +19,7 @@ npm i -S fpform
 
 ```
 
-[Live Demo](https://minhphongvn.github.io/Reports/T5L/)
+[Live Demo](https://minhphongvn.github.io/Reports/T5L/LHUForm)
 
 ## VueJS 2.0
 Cách sử dụng component:
