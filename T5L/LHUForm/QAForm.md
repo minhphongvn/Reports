@@ -1,5 +1,7 @@
 # MỘT SỐ THÔNG TIN VỀ COMPONENT 
 
+![alt text](./images/qaform.png)
+
 ## Cài đặt
 
 ### sử dụng NPM hoặc YARN
