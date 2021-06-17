@@ -1,6 +1,6 @@
 # MỘT SỐ THÔNG TIN VỀ COMPONENT 
 
-![alt text](images/qaform.png)
+![alt text](./images/qaform.png)
 
 ## Cài đặt
 
