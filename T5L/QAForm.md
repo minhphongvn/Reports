@@ -15,8 +15,7 @@ npm i -S fpform
 
 ```
 
-[Demo](https://github.com/SortableJS/Vue.Draggable/tree/master/example)
-[Live Demo](https://github.com/SortableJS/Vue.Draggable/tree/master/example)
+[Live Demo](https://github.com/)
 
 ## VueJS 2.0
 Cách sử dụng component:

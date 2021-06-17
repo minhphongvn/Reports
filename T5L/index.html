@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+</head>
+<body>
+  <div id="app">
+    <Lhuform v-model="template"></Lhuform>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
+  <script src="https://unpkg.com/fpform@1.x/dist/lhuform.min.js"></script>
+  <script>
+    new Vue({
+      el: '#app',
+      data: ()=>({
+        template: {
+        "templateID": "template-id",
+        "logo_org": "https://lhu.edu.vn/ViewPage/LHUVN/_default/image/truong_dai_hoc_lac_hong_logo.png",
+        "name_org": "Trường Đại học Lạc Hồng",
+        "url_finishRedirect": "https://lhu.edu.vn",
+        "Title": "TÊN PHIẾU KHẢO SÁT",
+        "Des": "Xin chào anh/chị",
+        "url_login": "",
+        "url_template": "",
+        "Part": [
+          {
+            "Name": "TÊN PHẦN",
+            "Des": "Mô tả",
+            "Question": []
+          }
+        ]
+      }
+      }),
+      components: {
+        Lhuform
+      }
+    })
+  </script>
+</body>
+</html>
