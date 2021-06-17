@@ -1,6 +1,6 @@
 # MỘT SỐ THÔNG TIN VỀ COMPONENT 
 
-![alt text](./images/qaform.png)
+<img src="/images/qaform.png" alt="My cool logo"/>
 
 ## Cài đặt
 
